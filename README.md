@@ -29,7 +29,7 @@ Press **Super+V** to open a searchable popup of everything you've copied — tex
 > **Requirements:** Debian/Ubuntu-based distro running X11 (Xorg). Wayland is not supported.
 
 ```bash
-git clone https://github.com/YOUR_USER/super-v.git
+git clone https://github.com/vinicius-batistella/super-v
 cd super-v
 sudo ./install.sh
 ```
