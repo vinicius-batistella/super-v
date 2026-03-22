@@ -1,0 +1,7 @@
+# Super-V requires system packages (not pip).
+# Install via your package manager:
+#
+#   sudo apt install python3-gi gir1.2-gtk-3.0 gir1.2-gdkpixbuf-2.0 python3-xlib xdotool xclip
+#
+# No pip packages are needed.
+# gir1.2-gdkpixbuf-2.0 is needed for image clipboard support (v3).

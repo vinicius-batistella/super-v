@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Super-V Clipboard History
+Comment=Clipboard history manager for Linux (Win+V style)
+Exec=/usr/bin/python3 /opt/super-v/super-v.py
+Icon=edit-paste
+Terminal=false
+Categories=Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
